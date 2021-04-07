@@ -28,6 +28,15 @@ body {
     margin-top: 10px;
     margin-bottom: 0px;
   }
+  h4 {
+    span{
+      background: green;
+      Color: $background-color;
+      margin-top: 10px;
+      margin-bottom: 0px;
+    }
+   color: green;
+  }
 
   p {
     color: $text-color;
@@ -46,6 +55,6 @@ body {
   }
 
   img {
-    border-radius: 0px;
+    border-radius: 200px;
   }
 }
